@@ -1,0 +1,4 @@
+name: Deathswap
+version: ${project.version}
+main: legoshi.de.deathswap.Deathswap
+api-version: 1.16
